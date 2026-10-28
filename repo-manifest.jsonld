@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/scikit-hep/histserv/commit/e7f0db9f9c2ab0cd2e5abea45fd959ebe6304d14",
       "git:hexsha": "e7f0db9f9c2ab0cd2e5abea45fd959ebe6304d14",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/scikit-hep/histserv/commit/ca26e8fe1d4d2261cb697941080b0b37e3bdfb24",
