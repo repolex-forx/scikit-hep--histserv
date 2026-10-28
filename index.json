@@ -1,0 +1,11 @@
+{
+  "org": "scikit-hep",
+  "repo": "histserv",
+  "versions": [
+    {
+      "commit": "e7f0db9f9c2ab0cd2e5abea45fd959ebe6304d14",
+      "tag": "",
+      "parsed_at": "2026-10-28T14:24:49.606045+00:00"
+    }
+  ]
+}
